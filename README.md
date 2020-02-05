@@ -1,6 +1,6 @@
 # Ideas
 
-1) Find the projects tab above.
+1) Find the "Projects" tab above.
 
 2) Click on the "Ideas" board.
 
