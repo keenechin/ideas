@@ -2,7 +2,7 @@
 
 1) Find the "Projects" tab above.
 
-2) Click on the "Ideas" board.
+2) Click on the ["Ideas" board](https://github.com/scs-phd-deans-committee/ideas/projects/1).
 
 3) Add a card to the "Ideas" column.
 
